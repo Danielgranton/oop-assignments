@@ -6,8 +6,6 @@ this are simple c++ projects , library managements system is build to enable stu
 
 while fees management system allows students to pay fees online and return the fee balaces and their details
 
-### 1. Compile the Program
-
 ### library management system
 
 ```bash
