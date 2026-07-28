@@ -1,3 +1,7 @@
+// BCS-05-0068/2025
+// Sifuna Daniel Granton
+// employees management system 
+
 #include <iostream>
 #include <string>
 using namespace std;
